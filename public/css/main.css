@@ -1,0 +1,45 @@
+
+/**** components  ****/
+
+* {
+    text-align: center;
+    box-sizing: border-box;
+    font-family: 'Bai Jamjuree' , sans-serif;
+}
+
+h1 {
+    font-size: 32px;
+    color: #4C545C;
+    font-weight: bold;
+}
+
+p {
+    font-weight: 400;
+    font-size: 16px;
+    color: #9EABB2;
+}
+
+
+
+
+/**** base  ****/
+
+.wrapper {
+    margin: 123px 32px 193px  32px;
+}
+
+body {
+    background: url(/public/assets/images/bg-header-mobile.png);
+    background-repeat: no-repeat;
+    margin: 0;
+}
+
+/**** hero-container ****/
+
+.hero-title {
+    font-weight: 600;
+    margin-top: 64px;
+}
+
+
+
