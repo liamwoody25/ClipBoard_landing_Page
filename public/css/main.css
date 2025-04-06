@@ -17,12 +17,14 @@ h2 {
     color: #4C545C;
     font-size: 28px;
     font-weight: 600;
+    margin-bottom: 10px;
 }
 
 p {
     font-weight: 400;
     font-size: 16px;
     color: #9EABB2;
+    
 }
 
 .download-ios {
@@ -99,6 +101,11 @@ body {
     letter-spacing: -0.391px;
     font-weight: 600;
     font-size: 24px;
+}
+.keep-txt {
+    line-height: 26px;
+    letter-spacing: 0.12px;
+    margin: 10px 0 48px 0;
 }
 
 img[src*="image-computer"] {
