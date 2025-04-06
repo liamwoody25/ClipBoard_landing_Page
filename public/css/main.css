@@ -95,5 +95,16 @@ body {
     line-height: normal;
 }
 
+.keep-subheading {
+    letter-spacing: -0.391px;
+    font-weight: 600;
+    font-size: 24px;
+}
+
+img[src*="image-computer"] {
+    margin-top: 65px;
+    width: 100%;
+}
+
 
 
