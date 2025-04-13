@@ -110,6 +110,7 @@ body {
 
 img[src*="image-computer"] {
     margin-top: 65px;
+    margin-bottom: 34px;
     width: 100%;
 }
 
